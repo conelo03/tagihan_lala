@@ -1,0 +1,482 @@
+[17-Oct-2020 23:51:21 Asia/Jakarta] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/dijeycel/public_html/application/libraries/dompdf/src/Dompdf.php on line 610
+[17-Oct-2020 23:51:21 Asia/Jakarta] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/dijeycel/public_html/application/libraries/dompdf/src/Dompdf.php on line 631
+[17-Oct-2020 23:51:21 Asia/Jakarta] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/dijeycel/public_html/application/libraries/dompdf/lib/Cpdf.php on line 467
+[17-Oct-2020 23:51:21 Asia/Jakarta] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/dijeycel/public_html/application/libraries/dompdf/lib/Cpdf.php on line 474
+[17-Oct-2020 23:51:21 Asia/Jakarta] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/dijeycel/public_html/application/libraries/dompdf/lib/Cpdf.php on line 481
+[17-Oct-2020 23:51:21 Asia/Jakarta] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/dijeycel/public_html/application/libraries/dompdf/lib/Cpdf.php on line 488
+[17-Oct-2020 23:51:21 Asia/Jakarta] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/dijeycel/public_html/application/libraries/dompdf/src/Css/Stylesheet.php on line 1360
+[17-Oct-2020 23:51:23 Asia/Jakarta] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/dijeycel/public_html/application/libraries/dompdf/src/Renderer/Text.php on line 140
+[19-Oct-2020 21:58:18 Asia/Jakarta] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/dijeycel/public_html/application/libraries/dompdf/src/Dompdf.php on line 610
+[19-Oct-2020 21:58:18 Asia/Jakarta] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/dijeycel/public_html/application/libraries/dompdf/src/Dompdf.php on line 631
+[19-Oct-2020 21:58:18 Asia/Jakarta] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/dijeycel/public_html/application/libraries/dompdf/lib/Cpdf.php on line 467
+[19-Oct-2020 21:58:18 Asia/Jakarta] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/dijeycel/public_html/application/libraries/dompdf/lib/Cpdf.php on line 474
+[19-Oct-2020 21:58:18 Asia/Jakarta] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/dijeycel/public_html/application/libraries/dompdf/lib/Cpdf.php on line 481
+[19-Oct-2020 21:58:18 Asia/Jakarta] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/dijeycel/public_html/application/libraries/dompdf/lib/Cpdf.php on line 488
+[19-Oct-2020 21:58:18 Asia/Jakarta] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/dijeycel/public_html/application/libraries/dompdf/src/Css/Stylesheet.php on line 1360
+[19-Oct-2020 21:58:19 Asia/Jakarta] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/dijeycel/public_html/application/libraries/dompdf/src/Renderer/Text.php on line 140
+[20-Oct-2020 23:01:02 Asia/Jakarta] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/dijeycel/public_html/application/libraries/dompdf/src/Dompdf.php on line 610
+[20-Oct-2020 23:01:02 Asia/Jakarta] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/dijeycel/public_html/application/libraries/dompdf/src/Dompdf.php on line 631
+[20-Oct-2020 23:01:02 Asia/Jakarta] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/dijeycel/public_html/application/libraries/dompdf/lib/Cpdf.php on line 467
+[20-Oct-2020 23:01:02 Asia/Jakarta] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/dijeycel/public_html/application/libraries/dompdf/lib/Cpdf.php on line 474
+[20-Oct-2020 23:01:02 Asia/Jakarta] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/dijeycel/public_html/application/libraries/dompdf/lib/Cpdf.php on line 481
+[20-Oct-2020 23:01:02 Asia/Jakarta] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/dijeycel/public_html/application/libraries/dompdf/lib/Cpdf.php on line 488
+[20-Oct-2020 23:01:02 Asia/Jakarta] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/dijeycel/public_html/application/libraries/dompdf/src/Css/Stylesheet.php on line 1360
+[20-Oct-2020 23:01:04 Asia/Jakarta] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/dijeycel/public_html/application/libraries/dompdf/src/Renderer/Text.php on line 140
+[04-Jul-2021 22:21:10 Asia/Jakarta] {"transaction_details":{"order_id":829528087,"gross_amount":"6000000"},"item_details":[{"id":"a1","price":"2000","quantity":"3000","name":"Tagihan Bulan July"}],"customer_details":{"first_name":"Bayu","last_name":" ","email":"ramadhan071thea@gmail.com","phone":"62895360172100","billing_address":"none","shipping_address":"none"},"credit_card":{"secure":true},"expiry":{"start_time":"2021-07-04 22:21:10 +0700","unit":"minute","duration":1440}}
+[04-Jul-2021 22:21:10 Asia/Jakarta] e062f2c8-7644-4253-89bc-2b05422e75c4
+[04-Jul-2021 15:21:25 UTC] stdClass Object
+(
+    [va_numbers] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [va_number] => 85311996497
+                    [bank] => bca
+                )
+
+        )
+
+    [transaction_time] => 2021-07-04 22:21:26
+    [transaction_status] => pending
+    [transaction_id] => defe8336-df1d-4ece-bfaf-c707e24fb815
+    [status_message] => midtrans payment notification
+    [status_code] => 201
+    [signature_key] => 59e0fccdaae365bac550df5ff46cbe9dcb2eeb1ce7736110a2a70cfb6ce202097f179b862143c166911f8bdea8ac37bbd129609121d36b507c9b54570fe461ac
+    [payment_type] => bank_transfer
+    [payment_amounts] => Array
+        (
+        )
+
+    [order_id] => 829528087
+    [merchant_id] => G751785311
+    [gross_amount] => 6000000.00
+    [fraud_status] => accept
+    [currency] => IDR
+)
+
+[05-Jul-2021 15:21:12 UTC] stdClass Object
+(
+    [va_numbers] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [va_number] => 85311996497
+                    [bank] => bca
+                )
+
+        )
+
+    [transaction_time] => 2021-07-04 22:21:26
+    [transaction_status] => expire
+    [transaction_id] => defe8336-df1d-4ece-bfaf-c707e24fb815
+    [status_message] => midtrans payment notification
+    [status_code] => 202
+    [signature_key] => ebda2819a0b1506c83dba58cdfa9b135b96e3b7263f77be740f39254198d5c020c0a4ec77418a8e9e8745576c1ec9c71970d593959bc2f29d6d2299f271702fe
+    [payment_type] => bank_transfer
+    [payment_amounts] => Array
+        (
+        )
+
+    [order_id] => 829528087
+    [merchant_id] => G751785311
+    [gross_amount] => 6000000.00
+    [fraud_status] => accept
+    [currency] => IDR
+)
+
+[08-Jul-2021 19:21:55 Asia/Jakarta] {"transaction_details":{"order_id":1876484574,"gross_amount":"-5998000"},"item_details":[{"id":"a1","price":"2000","quantity":"-2999","name":"Tagihan Bulan July"}],"customer_details":{"first_name":"lalaa","last_name":" ","email":"ramadhan071thea@gmail.com","phone":"62895360172100","billing_address":"none","shipping_address":"none"},"credit_card":{"secure":true},"expiry":{"start_time":"2021-07-08 19:21:55 +0700","unit":"minute","duration":1440}}
+[08-Jul-2021 19:25:37 Asia/Jakarta] {"transaction_details":{"order_id":1418292478,"gross_amount":"-5998000"},"item_details":[{"id":"a1","price":"2000","quantity":"-2999","name":"Tagihan Bulan July"}],"customer_details":{"first_name":"lalaa","last_name":" ","email":"ramadhan071thea@gmail.com","phone":"62895360172100","billing_address":"none","shipping_address":"none"},"credit_card":{"secure":true},"expiry":{"start_time":"2021-07-08 19:25:37 +0700","unit":"minute","duration":1440}}
+[08-Jul-2021 19:30:17 Asia/Jakarta] {"transaction_details":{"order_id":2114836828,"gross_amount":"-5998000"},"item_details":[{"id":"a1","price":"2000","quantity":"-2999","name":"Tagihan Bulan July"}],"customer_details":{"first_name":"lalaa","last_name":" ","email":"ramadhan071thea@gmail.com","phone":"62895360172100","billing_address":"none","shipping_address":"none"},"credit_card":{"secure":true},"expiry":{"start_time":"2021-07-08 19:30:17 +0700","unit":"minute","duration":1440}}
+[08-Jul-2021 19:30:58 Asia/Jakarta] {"transaction_details":{"order_id":1156731452,"gross_amount":"-5998000"},"item_details":[{"id":"a1","price":"2000","quantity":"-2999","name":"Tagihan Bulan July"}],"customer_details":{"first_name":"lalaa","last_name":" ","email":"ramadhan071thea@gmail.com","phone":"62895360172100","billing_address":"none","shipping_address":"none"},"credit_card":{"secure":true},"expiry":{"start_time":"2021-07-08 19:30:58 +0700","unit":"minute","duration":1440}}
+[08-Jul-2021 19:32:42 Asia/Jakarta] {"transaction_details":{"order_id":1283152226,"gross_amount":"-5998000"},"item_details":[{"id":"a1","price":"2000","quantity":"-2999","name":"Tagihan Bulan July"}],"customer_details":{"first_name":"lalaa","last_name":" ","email":"ramadhan071thea@gmail.com","phone":"62895360172100","billing_address":"none","shipping_address":"none"},"credit_card":{"secure":true},"expiry":{"start_time":"2021-07-08 19:32:42 +0700","unit":"minute","duration":1440}}
+[08-Jul-2021 19:43:40 Asia/Jakarta] {"transaction_details":{"order_id":1140642135,"gross_amount":"2000"},"item_details":[{"id":"a1","price":"2000","quantity":"1","name":"Tagihan Bulan July"}],"customer_details":{"first_name":"lalaa","last_name":" ","email":"ramadhan071thea@gmail.com","phone":"62895360172100","billing_address":"none","shipping_address":"none"},"credit_card":{"secure":true},"expiry":{"start_time":"2021-07-08 19:43:40 +0700","unit":"minute","duration":1440}}
+[08-Jul-2021 19:43:41 Asia/Jakarta] fe6cc022-74b5-4e10-85e8-7daed691b7bc
+[08-Jul-2021 12:44:08 UTC] stdClass Object
+(
+    [transaction_time] => 2021-07-08 19:44:09
+    [transaction_status] => pending
+    [transaction_id] => 701eafcd-87ef-4d22-9ac0-efc246605b93
+    [store] => indomaret
+    [status_message] => midtrans payment notification
+    [status_code] => 201
+    [signature_key] => ebd9cf18cf7497e01de8e8f4efecca90e9d0e62242b1f7b7c83d598af65f8390cb67d39b1013a1768c83b19a76882aa2b90d32c24ce4871f97ef1c454b1c8977
+    [payment_type] => cstore
+    [payment_code] => 785360172100
+    [order_id] => 1140642135
+    [merchant_id] => G751785311
+    [gross_amount] => 2000.00
+    [currency] => IDR
+)
+
+[08-Jul-2021 19:44:43 Asia/Jakarta] {"transaction_details":{"order_id":1236766328,"gross_amount":"2000"},"item_details":[{"id":"a1","price":"2000","quantity":"1","name":"Tagihan Bulan July"}],"customer_details":{"first_name":"lalaa","last_name":" ","email":"ramadhan071thea@gmail.com","phone":"62895360172100","billing_address":"none","shipping_address":"none"},"credit_card":{"secure":true},"expiry":{"start_time":"2021-07-08 19:44:43 +0700","unit":"minute","duration":1440}}
+[08-Jul-2021 19:44:43 Asia/Jakarta] f65e441f-d66b-45d1-a1a3-f696c7f9d21f
+[08-Jul-2021 12:46:00 UTC] stdClass Object
+(
+    [transaction_time] => 2021-07-08 19:44:09
+    [transaction_status] => settlement
+    [transaction_id] => 701eafcd-87ef-4d22-9ac0-efc246605b93
+    [store] => indomaret
+    [status_message] => midtrans payment notification
+    [status_code] => 200
+    [signature_key] => b81c179f699c0c8f1ac5eaa49d405c547d26069ad9ac4d64a988f1109ed1914f64444cb710f474524b3bfeb03f9608f849f5b575d6181bd4b8f29f165fb0fbb8
+    [settlement_time] => 2021-07-08 19:46:02
+    [payment_type] => cstore
+    [payment_code] => 785360172100
+    [order_id] => 1140642135
+    [merchant_id] => G751785311
+    [gross_amount] => 2000.00
+    [currency] => IDR
+    [approval_code] => 54752107127210043799
+)
+
+[08-Jul-2021 12:46:04 UTC] stdClass Object
+(
+    [transaction_time] => 2021-07-08 19:44:09
+    [transaction_status] => deny
+    [transaction_id] => 701eafcd-87ef-4d22-9ac0-efc246605b93
+    [store] => indomaret
+    [status_message] => midtrans payment notification
+    [status_code] => 202
+    [signature_key] => 1bb2305b3d3a3ca09d25f8fef562afb2be9586f686de682b2ab346840a4530a92731d09d82d1984108bd59d952add5590de1b021ea4f2732a02f75e0d416cd41
+    [settlement_time] => 2021-07-08 19:46:02
+    [payment_type] => cstore
+    [payment_code] => 785360172100
+    [order_id] => 1140642135
+    [merchant_id] => G751785311
+    [gross_amount] => 2000.00
+    [currency] => IDR
+    [approval_code] => 54752107127210043799
+)
+
+[08-Jul-2021 21:17:08 Asia/Jakarta] {"transaction_details":{"order_id":54353821,"gross_amount":"4000"},"item_details":[{"id":"a1","price":"2000","quantity":"2","name":"Tagihan Bulan July"}],"customer_details":{"first_name":"Bayu","last_name":" ","email":"ramadhan071thea@gmail.com","phone":"62895360172100","billing_address":"none","shipping_address":"none"},"credit_card":{"secure":true},"expiry":{"start_time":"2021-07-08 21:17:08 +0700","unit":"minute","duration":1440}}
+[08-Jul-2021 21:17:08 Asia/Jakarta] e2ef57fd-5e24-4eea-971e-d2cf970ff1d4
+[08-Jul-2021 21:19:54 Asia/Jakarta] {"transaction_details":{"order_id":471604058,"gross_amount":"4000"},"item_details":[{"id":"a1","price":"2000","quantity":"2","name":"Tagihan Bulan July"}],"customer_details":{"first_name":"Bayu","last_name":" ","email":"ramadhan071thea@gmail.com","phone":"62895360172100","billing_address":"none","shipping_address":"none"},"credit_card":{"secure":true},"expiry":{"start_time":"2021-07-08 21:19:54 +0700","unit":"minute","duration":1440}}
+[08-Jul-2021 21:19:54 Asia/Jakarta] 318e7f8c-2417-45c2-aa35-86c4e0bfd6b0
+[08-Jul-2021 14:21:12 UTC] stdClass Object
+(
+    [transaction_type] => off-us
+    [transaction_time] => 2021-07-08 21:21:12
+    [transaction_status] => pending
+    [transaction_id] => d6742efc-aa47-4782-9524-b234994d0f0d
+    [status_message] => midtrans payment notification
+    [status_code] => 201
+    [signature_key] => 644f7a9be617eef53070359a6de41fc5fb019e97fe0e29258fa0ebbe9d0c0e8476ddee6128c81d8cb90211a4dcfca4f6e2fcce060c63579d91e9a8ecef46e456
+    [payment_type] => qris
+    [order_id] => 471604058
+    [merchant_id] => G751785311
+    [gross_amount] => 4000.00
+    [fraud_status] => accept
+    [currency] => IDR
+    [acquirer] => airpay shopee
+)
+
+[08-Jul-2021 15:21:14 UTC] stdClass Object
+(
+    [transaction_type] => off-us
+    [transaction_time] => 2021-07-08 21:21:12
+    [transaction_status] => expire
+    [transaction_id] => d6742efc-aa47-4782-9524-b234994d0f0d
+    [status_message] => midtrans payment notification
+    [status_code] => 202
+    [signature_key] => 0b38c390d60520d68dd394bc0ba36ba40d7a1576a87bac822d8923dd62953af1b4c45b4ce0e27352f282a11638edfc237373dae483219b0ae593917cf40a7355
+    [payment_type] => qris
+    [order_id] => 471604058
+    [merchant_id] => G751785311
+    [gross_amount] => 4000.00
+    [fraud_status] => accept
+    [currency] => IDR
+    [acquirer] => airpay shopee
+)
+
+[09-Jul-2021 08:48:07 Asia/Jakarta] {"transaction_details":{"order_id":1059387133,"gross_amount":"4000"},"item_details":[{"id":"a1","price":"2000","quantity":"2","name":"Tagihan Bulan July"}],"customer_details":{"first_name":"erna","last_name":" ","email":"ramadhan071thea@gmail.com","phone":"62895360172100","billing_address":"none","shipping_address":"none"},"credit_card":{"secure":true},"expiry":{"start_time":"2021-07-09 08:48:07 +0700","unit":"minute","duration":1440}}
+[09-Jul-2021 08:48:08 Asia/Jakarta] a5831c27-58b0-4d73-ab27-4ca9fa8a9e9b
+[09-Jul-2021 08:51:50 Asia/Jakarta] {"transaction_details":{"order_id":1876813527,"gross_amount":"4000"},"item_details":[{"id":"a1","price":"2000","quantity":"2","name":"Tagihan Bulan July"}],"customer_details":{"first_name":"erna","last_name":" ","email":"ramadhan071thea@gmail.com","phone":"62895360172100","billing_address":"none","shipping_address":"none"},"credit_card":{"secure":true},"expiry":{"start_time":"2021-07-09 08:51:50 +0700","unit":"minute","duration":1440}}
+[09-Jul-2021 08:51:50 Asia/Jakarta] 20b6bc10-fe28-4816-9a50-fd621fbefcad
+[09-Jul-2021 08:51:57 Asia/Jakarta] {"transaction_details":{"order_id":386645334,"gross_amount":"2000"},"item_details":[{"id":"a1","price":"2000","quantity":"1","name":"Tagihan Bulan July"}],"customer_details":{"first_name":"erna","last_name":" ","email":"ramadhan071thea@gmail.com","phone":"62895360172100","billing_address":"none","shipping_address":"none"},"credit_card":{"secure":true},"expiry":{"start_time":"2021-07-09 08:51:57 +0700","unit":"minute","duration":1440}}
+[09-Jul-2021 08:51:57 Asia/Jakarta] a8119de0-d9fd-4bc6-a568-c3db67ed4292
+[09-Jul-2021 01:52:58 UTC] stdClass Object
+(
+    [transaction_time] => 2021-07-09 08:52:59
+    [transaction_status] => pending
+    [transaction_id] => 40dd23a8-d341-4410-b84c-082ef88f3890
+    [store] => indomaret
+    [status_message] => midtrans payment notification
+    [status_code] => 201
+    [signature_key] => b8effd4c4f5b83b4c9b4aa70d2e3f2e3479ca7e0d596bcffac450ff33295154e910f8da4d2a9fb9ab4cd9446a58657cee72a8a8730071fbe8388dd49781dc8f2
+    [payment_type] => cstore
+    [payment_code] => 465360172100
+    [order_id] => 1876813527
+    [merchant_id] => G751785311
+    [gross_amount] => 4000.00
+    [currency] => IDR
+)
+
+[09-Jul-2021 08:53:26 Asia/Jakarta] {"transaction_details":{"order_id":674271014,"gross_amount":"2000"},"item_details":[{"id":"a1","price":"2000","quantity":"1","name":"Tagihan Bulan July"}],"customer_details":{"first_name":"erna","last_name":" ","email":"ramadhan071thea@gmail.com","phone":"62895360172100","billing_address":"none","shipping_address":"none"},"credit_card":{"secure":true},"expiry":{"start_time":"2021-07-09 08:53:26 +0700","unit":"minute","duration":1440}}
+[09-Jul-2021 08:53:26 Asia/Jakarta] e15b16b1-2281-45f4-96b9-a3302f2d38e2
+[09-Jul-2021 01:54:37 UTC] stdClass Object
+(
+    [transaction_time] => 2021-07-09 08:52:59
+    [transaction_status] => settlement
+    [transaction_id] => 40dd23a8-d341-4410-b84c-082ef88f3890
+    [store] => indomaret
+    [status_message] => midtrans payment notification
+    [status_code] => 200
+    [signature_key] => de77cd2d525ba0bc5ff31f4e6996f7489875b891c201791837399787673a9fce1d3c011e1c23a97925bffbb6737bfe916d8a5b49965bcaffe05060c287b9e1df
+    [settlement_time] => 2021-07-09 08:54:38
+    [payment_type] => cstore
+    [payment_code] => 465360172100
+    [order_id] => 1876813527
+    [merchant_id] => G751785311
+    [gross_amount] => 4000.00
+    [currency] => IDR
+    [approval_code] => 09662107017210063676
+)
+
+[10-Jul-2021 20:54:39 Asia/Jakarta] {"transaction_details":{"order_id":1191563213,"gross_amount":"2000"},"item_details":[{"id":"a1","price":"2000","quantity":"1","name":"Tagihan Bulan July"}],"customer_details":{"first_name":"erna","last_name":" ","email":"ramadhan071thea@gmail.com","phone":"62895360172100","billing_address":"none","shipping_address":"none"},"credit_card":{"secure":true},"expiry":{"start_time":"2021-07-10 20:54:39 +0700","unit":"minute","duration":1440}}
+[10-Jul-2021 20:54:40 Asia/Jakarta] 0f3f572a-51d0-459f-9dea-a60ddf5dad7e
+[10-Jul-2021 21:02:25 Asia/Jakarta] {"transaction_details":{"order_id":178787412,"gross_amount":"46000"},"item_details":[{"id":"a1","price":"2000","quantity":"23","name":"Tagihan Bulan July"}],"customer_details":{"first_name":"ade","last_name":" ","email":"ramadhan071thea@gmail.com","phone":"087564578900","billing_address":"none","shipping_address":"none"},"credit_card":{"secure":true},"expiry":{"start_time":"2021-07-10 21:02:25 +0700","unit":"minute","duration":1440}}
+[10-Jul-2021 21:02:26 Asia/Jakarta] 3e72e062-f2e9-498e-b313-2e8588676649
+[11-Jul-2021 00:35:57 Asia/Jakarta] {"transaction_details":{"order_id":357627421,"gross_amount":"4000"},"item_details":[{"id":"a1","price":"2000","quantity":"2","name":"Tagihan Bulan July"}],"customer_details":{"first_name":"2002010001 - erna","last_name":" ","email":"ramadhan071thea@gmail.com","phone":"62895360172100","billing_address":"none","shipping_address":"none"},"credit_card":{"secure":true},"expiry":{"start_time":"2021-07-11 00:35:57 +0700","unit":"minute","duration":1440}}
+[11-Jul-2021 00:35:58 Asia/Jakarta] f6f17571-23bb-4b8b-814e-eadb194c514e
+[10-Jul-2021 17:38:50 UTC] 
+[11-Jul-2021 00:39:00 Asia/Jakarta] {"transaction_details":{"order_id":770760229,"gross_amount":"4000"},"item_details":[{"id":"a1","price":"2000","quantity":"2","name":"Tagihan Bulan July"}],"customer_details":{"first_name":"2002010001 - erna","last_name":" ","email":"ramadhan071thea@gmail.com","phone":"62895360172100","billing_address":"none","shipping_address":"none"},"credit_card":{"secure":true},"expiry":{"start_time":"2021-07-11 00:39:00 +0700","unit":"minute","duration":1440}}
+[11-Jul-2021 00:39:01 Asia/Jakarta] 7908f5a6-040b-4364-8686-91b9662f44b5
+[10-Jul-2021 17:39:08 UTC] stdClass Object
+(
+    [va_numbers] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [va_number] => 85311476719
+                    [bank] => bca
+                )
+
+        )
+
+    [transaction_time] => 2021-07-11 00:39:08
+    [transaction_status] => pending
+    [transaction_id] => 0f5c9eef-b72a-452d-9418-cd3ce0b12c5d
+    [status_message] => midtrans payment notification
+    [status_code] => 201
+    [signature_key] => 0717bbc29b5d4c9c0d800a0ba08beb955f30a1e8875582d92f9a30057e15c5fd7d0a8fff079445eedb4644a937772e0b5e46b662ba8eb08ed57a84b3b3ed0ba3
+    [payment_type] => bank_transfer
+    [payment_amounts] => Array
+        (
+        )
+
+    [order_id] => 770760229
+    [merchant_id] => G751785311
+    [gross_amount] => 4000.00
+    [fraud_status] => accept
+    [currency] => IDR
+)
+
+[10-Jul-2021 17:39:23 UTC] stdClass Object
+(
+    [va_numbers] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [va_number] => 85311476719
+                    [bank] => bca
+                )
+
+        )
+
+    [transaction_time] => 2021-07-11 00:39:08
+    [transaction_status] => settlement
+    [transaction_id] => 0f5c9eef-b72a-452d-9418-cd3ce0b12c5d
+    [status_message] => midtrans payment notification
+    [status_code] => 200
+    [signature_key] => d738bdf7bed7248b920c2c34c9563541cda6442ed50cdec7a8411befca4eee20e108a72ba95363ff11189d2e439a3f6c26373ed367b74a5b93b46e204f7e8f0b
+    [settlement_time] => 2021-07-11 00:39:23
+    [payment_type] => bank_transfer
+    [payment_amounts] => Array
+        (
+        )
+
+    [order_id] => 770760229
+    [merchant_id] => G751785311
+    [gross_amount] => 4000.00
+    [fraud_status] => accept
+    [currency] => IDR
+)
+
+[10-Jul-2021 17:56:43 UTC] 
+[10-Jul-2021 17:57:35 UTC] 
+[10-Jul-2021 18:03:20 UTC] 
+[10-Jul-2021 18:04:22 UTC] 
+[10-Jul-2021 18:05:14 UTC] 
+[10-Jul-2021 18:05:31 UTC] 
+[10-Jul-2021 18:06:29 UTC] 
+[10-Jul-2021 18:07:24 UTC] 
+[10-Jul-2021 18:11:13 UTC] 
+[10-Jul-2021 18:12:07 UTC] 
+[10-Jul-2021 18:14:51 UTC] 
+[10-Jul-2021 18:16:00 UTC] 
+[10-Jul-2021 18:16:32 UTC] 
+[10-Jul-2021 18:20:50 UTC] 
+[10-Jul-2021 18:21:00 UTC] 
+[11-Jul-2021 01:22:36 Asia/Jakarta] {"transaction_details":{"order_id":1374033701,"gross_amount":"4000"},"item_details":[{"id":"a1","price":"2000","quantity":"2","name":"Tagihan Bulan July"}],"customer_details":{"first_name":"2002010002 - Bayu","last_name":" ","email":"ramadhan071thea@gmail.com","phone":"62895360172100","billing_address":"none","shipping_address":"none"},"credit_card":{"secure":true},"expiry":{"start_time":"2021-07-11 01:22:36 +0700","unit":"minute","duration":1440}}
+[11-Jul-2021 01:22:36 Asia/Jakarta] 470dc5b6-559d-4f95-8e42-b2b933e8f966
+[10-Jul-2021 18:22:44 UTC] stdClass Object
+(
+    [va_numbers] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [va_number] => 85311059766
+                    [bank] => bca
+                )
+
+        )
+
+    [transaction_time] => 2021-07-11 01:22:43
+    [transaction_status] => pending
+    [transaction_id] => 1256c18e-046a-4f6c-8891-2ebd4e5e4687
+    [status_message] => midtrans payment notification
+    [status_code] => 201
+    [signature_key] => d147a80685620e000f4427e28efddc8cbc211954afc56ef01ae76f69ac6dcacab51fa45276e622c517d3f6d95f5eb49d7a31953ac17a94fc242de41fb94235b4
+    [payment_type] => bank_transfer
+    [payment_amounts] => Array
+        (
+        )
+
+    [order_id] => 1374033701
+    [merchant_id] => G751785311
+    [gross_amount] => 4000.00
+    [fraud_status] => accept
+    [currency] => IDR
+)
+
+[10-Jul-2021 18:23:01 UTC] stdClass Object
+(
+    [va_numbers] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [va_number] => 85311059766
+                    [bank] => bca
+                )
+
+        )
+
+    [transaction_time] => 2021-07-11 01:22:43
+    [transaction_status] => settlement
+    [transaction_id] => 1256c18e-046a-4f6c-8891-2ebd4e5e4687
+    [status_message] => midtrans payment notification
+    [status_code] => 200
+    [signature_key] => a27df0651605a7beffe53172c041dac4cdb088aa3ae5de1475c4b8194037e330624d31cd4116ee3eac807aa2dfc658b7a03fac0a6566a573d01607e4afe8a29d
+    [settlement_time] => 2021-07-11 01:23:01
+    [payment_type] => bank_transfer
+    [payment_amounts] => Array
+        (
+        )
+
+    [order_id] => 1374033701
+    [merchant_id] => G751785311
+    [gross_amount] => 4000.00
+    [fraud_status] => accept
+    [currency] => IDR
+)
+
+[11-Jul-2021 01:34:43 Asia/Jakarta] {"transaction_details":{"order_id":292847570,"gross_amount":"4000"},"item_details":[{"id":"a1","price":"2000","quantity":"2","name":"Tagihan Bulan July"}],"customer_details":{"first_name":"2002010001 - erna","last_name":" ","email":"ramadhan071thea@gmail.com","phone":"62895360172100","billing_address":"none","shipping_address":"none"},"credit_card":{"secure":true},"expiry":{"start_time":"2021-07-11 01:34:43 +0700","unit":"minute","duration":1440}}
+[11-Jul-2021 01:34:43 Asia/Jakarta] 959b7210-3b9b-4bac-b97e-b90e676d269b
+[11-Jul-2021 01:36:44 Asia/Jakarta] {"transaction_details":{"order_id":705170628,"gross_amount":"4000"},"item_details":[{"id":"a1","price":"2","quantity":"2000","name":"Pemakaian bulan July"}],"customer_details":{"first_name":"2002010001 - erna","last_name":" ","email":"ramadhan071thea@gmail.com","phone":"62895360172100","billing_address":"none","shipping_address":"none"},"credit_card":{"secure":true},"expiry":{"start_time":"2021-07-11 01:36:44 +0700","unit":"minute","duration":1440}}
+[11-Jul-2021 01:36:44 Asia/Jakarta] b5950596-b83f-4b5c-b901-811e99a8bcd2
+[12-Jul-2021 14:27:10 Asia/Jakarta] {"transaction_details":{"order_id":853143341,"gross_amount":"4000"},"item_details":[{"id":"a1","price":"2","quantity":"2000","name":"Pemakaian bulan July"}],"customer_details":{"first_name":"2002010001 - erna","last_name":" ","email":"Lalasonia06@gmail.com","phone":"62895360172100","billing_address":"none","shipping_address":"none"},"credit_card":{"secure":true},"expiry":{"start_time":"2021-07-12 14:27:10 +0700","unit":"minute","duration":1440}}
+[12-Jul-2021 14:27:10 Asia/Jakarta] 4393c922-021c-48bb-9318-02f6c21e39ef
+[15-Jul-2021 13:19:29 Asia/Jakarta] {"transaction_details":{"order_id":1742627371,"gross_amount":"4000"},"item_details":[{"id":"a1","price":"2","quantity":"2000","name":"Pemakaian bulan July"}],"customer_details":{"first_name":"2002010001 - erna","last_name":" ","email":"Lalasonia06@gmail.com","phone":"62895360172100","billing_address":"none","shipping_address":"none"},"credit_card":{"secure":true},"expiry":{"start_time":"2021-07-15 13:19:29 +0700","unit":"minute","duration":1440}}
+[15-Jul-2021 13:19:29 Asia/Jakarta] 6b43ee3e-284d-47e3-a0c2-48bf0a3f1d32
+[15-Jul-2021 06:20:32 UTC] stdClass Object
+(
+    [transaction_time] => 2021-07-15 13:20:32
+    [transaction_status] => pending
+    [transaction_id] => 1a61166f-7edd-4f5a-a7d5-63fa4478c189
+    [status_message] => midtrans payment notification
+    [status_code] => 201
+    [signature_key] => f9b0d4a89e496dd05b8988e7eee84fe8f66d2ef403e627f6ee13b953c3c3e893702dd1d82dcfa3e7c74747d5a46e968e1f17d4100e3d8b240f864dc6b61db88e
+    [payment_type] => bca_klikpay
+    [order_id] => 1742627371
+    [merchant_id] => G751785311
+    [gross_amount] => 4000.00
+    [fraud_status] => accept
+    [currency] => IDR
+)
+
+[15-Jul-2021 06:20:37 UTC] stdClass Object
+(
+    [transaction_time] => 2021-07-15 13:20:32
+    [transaction_status] => settlement
+    [transaction_id] => 1a61166f-7edd-4f5a-a7d5-63fa4478c189
+    [status_message] => midtrans payment notification
+    [status_code] => 200
+    [signature_key] => e6ef3e42a20131d27c0107440ff14314c1114559756bb010414bc228b88047a94fe87e06cf96abd71ee88bc1f5f2e7dc47add6cc42183e676aef0e29255a9d2c
+    [settlement_time] => 2021-07-15 13:20:39
+    [payment_type] => bca_klikpay
+    [order_id] => 1742627371
+    [merchant_id] => G751785311
+    [gross_amount] => 4000.00
+    [fraud_status] => accept
+    [currency] => IDR
+    [approval_code] => 112233
+)
+
+[15-Jul-2021 13:52:40 Asia/Jakarta] {"transaction_details":{"order_id":1919402688,"gross_amount":"40000"},"item_details":[{"id":"a1","price":"20","quantity":"2000","name":"Pemakaian bulan July"}],"customer_details":{"first_name":"2002010002 - Bayu darmawan","last_name":" ","email":"Lalasonia06@gmail.com","phone":"62895360172100","billing_address":"none","shipping_address":"none"},"credit_card":{"secure":true},"expiry":{"start_time":"2021-07-15 13:52:40 +0700","unit":"minute","duration":1440}}
+[15-Jul-2021 13:52:41 Asia/Jakarta] 82127179-9dc6-4ebf-a3cb-522fff65d670
+[15-Jul-2021 13:53:16 Asia/Jakarta] {"transaction_details":{"order_id":36168595,"gross_amount":"40000"},"item_details":[{"id":"a1","price":"20","quantity":"2000","name":"Pemakaian bulan July"}],"customer_details":{"first_name":"2002010002 - Bayu darmawan","last_name":" ","email":"Lalasonia06@gmail.com","phone":"62895360172100","billing_address":"none","shipping_address":"none"},"credit_card":{"secure":true},"expiry":{"start_time":"2021-07-15 13:53:16 +0700","unit":"minute","duration":1440}}
+[15-Jul-2021 13:53:16 Asia/Jakarta] ee2a9d53-e33d-451e-9af1-1adc74620c5c
+[15-Jul-2021 13:53:26 Asia/Jakarta] {"transaction_details":{"order_id":13325592,"gross_amount":"0"},"item_details":[{"id":"a1","price":"0","quantity":"2000","name":"Pemakaian bulan July"}],"customer_details":{"first_name":"2002010002 - Bayu darmawan","last_name":" ","email":"Lalasonia06@gmail.com","phone":"62895360172100","billing_address":"none","shipping_address":"none"},"credit_card":{"secure":true},"expiry":{"start_time":"2021-07-15 13:53:26 +0700","unit":"minute","duration":1440}}
+[15-Jul-2021 06:54:18 UTC] stdClass Object
+(
+    [transaction_time] => 2021-07-15 13:54:19
+    [transaction_status] => pending
+    [transaction_id] => f4839545-908b-45eb-a3c6-4e2e2e4c03d5
+    [store] => indomaret
+    [status_message] => midtrans payment notification
+    [status_code] => 201
+    [signature_key] => bacd14efb256bab17374105d50bbd2125a0099362c4262b423d980f503a2c2ee02c63cea15ef5a62f61b5eb956d53fbb43c7ba203c0153d97a742fa14c425a3c
+    [payment_type] => cstore
+    [payment_code] => 145360172100
+    [order_id] => 36168595
+    [merchant_id] => G751785311
+    [gross_amount] => 40000.00
+    [currency] => IDR
+)
+
+[16-Jul-2021 06:53:22 UTC] stdClass Object
+(
+    [transaction_time] => 2021-07-15 13:54:19
+    [transaction_status] => expire
+    [transaction_id] => f4839545-908b-45eb-a3c6-4e2e2e4c03d5
+    [store] => indomaret
+    [status_message] => midtrans payment notification
+    [status_code] => 202
+    [signature_key] => 06aa57bf6cfca8bd77dd8c090cf850ecb079af5c7ccbc4dba9406c7007d7353443d3fb8e2b55838a49fcb6f9cdf592b6e7071c364e4dd5dcdf06fc1526951dbf
+    [payment_type] => cstore
+    [payment_code] => 145360172100
+    [order_id] => 36168595
+    [merchant_id] => G751785311
+    [gross_amount] => 40000.00
+    [currency] => IDR
+)
+
+[22-Jul-2021 16:15:05 Asia/Jakarta] {"transaction_details":{"order_id":15871073,"gross_amount":"56000"},"item_details":[{"id":"a1","price":"28","quantity":"2000","name":"Pemakaian bulan July"}],"customer_details":{"first_name":"2002010001 - erna","last_name":" ","email":"Lalasonia06@gmail.com","phone":"62895360172100","billing_address":"none","shipping_address":"none"},"credit_card":{"secure":true},"expiry":{"start_time":"2021-07-22 16:15:05 +0700","unit":"minute","duration":1440}}
+[22-Jul-2021 16:15:06 Asia/Jakarta] 1d98bd5a-bf91-4894-a2a9-f43c2ea0db9b
+[22-Jul-2021 09:15:23 UTC] stdClass Object
+(
+    [transaction_time] => 2021-07-22 16:15:24
+    [transaction_status] => pending
+    [transaction_id] => 62adfec4-bfdc-41ec-8761-24abcc1232b2
+    [store] => indomaret
+    [status_message] => midtrans payment notification
+    [status_code] => 201
+    [signature_key] => 6cf04aa3420d52c67194477a46347bc83826958ea1d75ca8dbb4e3624833c87151f24ee1ea7280e008016712d8f36524be0c413dd335cf5a01b8efabea9c2690
+    [payment_type] => cstore
+    [payment_code] => 185360172100
+    [order_id] => 15871073
+    [merchant_id] => G751785311
+    [gross_amount] => 56000.00
+    [currency] => IDR
+)
+
